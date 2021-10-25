@@ -19,7 +19,7 @@ class MyApp extends StatelessWidget {
           title: Text('Flutter Form'),
           backgroundColor: Colors.teal[300],
         ),
-        body: DemoRadio(),
+        body: DemoTextField(),
       ),
     );
   }
